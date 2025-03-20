@@ -35,7 +35,7 @@
 
 Proiectul a fost realizat in **Anul I, Semestrul 1** de facultate, la cursul **facultativ** de **Programare in C**, avand ca obiectiv dezvoltarea abilitatilor practice in:
 -  **Aplicarea principiilor programarii structurale**
--  **Manipularea fisierelor**, pentru stocarea si gestionarea persistenta a datelor financiare
+-  **Manipularea fisierelor**, pentru stocarea si gestionarea a datelor financiare
 -  **Utilizarea structurilor de date**, pentru organizarea eficienta a informatiilor despre conturi si tranzactii
 -  **Validarea si prelucrarea datelor**
 -  **Implementarea unui sistem interactiv**, cu un meniu intuitiv pentru gestionarea conturilor financiare si tranzactiilor
