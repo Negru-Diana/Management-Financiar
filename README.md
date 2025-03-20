@@ -31,7 +31,7 @@
 -  Stocarea si afisarea istoricului activitatilor in fisiere dedicate
 
 
-## Descriere proiect
+## Obiective proiect
 
 Proiectul a fost realizat in **Anul I, Semestrul 1** de facultate, la cursul **facultativ** de **Programare in C**, avand ca obiectiv dezvoltarea abilitatilor practice in:
 -  **Aplicarea principiilor programarii structurale**
